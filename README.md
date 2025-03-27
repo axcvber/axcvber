@@ -3,7 +3,7 @@
 ###
 
 <div align="left">
-  <img height="320" src="https://media.giphy.com/media/AdtB8TtizElk0OrRGR/giphy.gif?cid=ecf05e47mxtl4uqym3y98o0tr6pffjrlwhimb31zpy9os37j&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
+  <img height="400" src="https://media.giphy.com/media/AdtB8TtizElk0OrRGR/giphy.gif?cid=ecf05e47mxtl4uqym3y98o0tr6pffjrlwhimb31zpy9os37j&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
 </div>
 
 ###
@@ -65,8 +65,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
 ###
