@@ -2,12 +2,6 @@
 
 ###
 
-<div align="left">
-  <img height="400" src="https://media.giphy.com/media/AdtB8TtizElk0OrRGR/giphy.gif?cid=ecf05e47mxtl4uqym3y98o0tr6pffjrlwhimb31zpy9os37j&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
-</div>
-
-###
-
 <h2 align="left">💫 About Me:</h2>
 
 ###
@@ -25,9 +19,6 @@
   </a>
   <a href="https://wa.me/message/QBYTM3OG5ERRE1" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
-  <a href="discordapp.com/users/axcvber" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
 </div>
 
