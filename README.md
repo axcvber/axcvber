@@ -1,14 +1,5 @@
-<h1 align="left">Hi there 👋, I'm Alex</h1>
 
-###
 
-<h2 align="left">About Me:</h2>
-
-###
-
-<p align="left">I’m a Full Stack Developer with expertise in building high-performance web applications. I architect end-to-end solutions that balance scalability, clean code, and seamless user experiences. Passionate about transforming complex requirements into efficient systems, I leverage best practices to deliver robust, business-driven results.</p>
-
-###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/axcvber/" target="_blank">
